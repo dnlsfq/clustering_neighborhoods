@@ -8,7 +8,7 @@ Segmenting and Clustering Neighborhoods in Toronto
 
 2. Create This Dataframe 
 
-[DataFrame](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7JXaz3NNEeiMwApe4i-fLg_40e690ae0e927abda2d4bde7d94ed133_Screen-Shot-2018-06-18-at-7.17.57-PM.png?expiry=1576281600000&hmac=DefpQnB2nhj5SPJi4TzPhWT7DUOn-cYclTJ4aE28v1o)
+DataFrame:(https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7JXaz3NNEeiMwApe4i-fLg_40e690ae0e927abda2d4bde7d94ed133_Screen-Shot-2018-06-18-at-7.17.57-PM.png?expiry=1576281600000&hmac=DefpQnB2nhj5SPJi4TzPhWT7DUOn-cYclTJ4aE28v1o)
 
 The dataframe will consist of three columns: PostalCode, Borough, and Neighborhood
 Only process the cells that have an assigned borough. Ignore cells with a borough that is Not assigned.
@@ -37,5 +37,5 @@ longitude = lat_lng_coords[1]
 ```
 4. [link to a csv file that has the geographical coordinates of each postal code](https://cocl.us/Geospatial_data)
 
-5. [Final Dataframe](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/HZ3jNHNOEeiMwApe4i-fLg_f44f0f10ccfaf42fcbdba9813364e173_Screen-Shot-2018-06-18-at-7.18.16-PM.png)
+5. [Final Dataframe](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/HZ3jNHNOEeiMwApe4i-fLg_f44f0f10ccfaf42fcbdba9813364e173_Screen-Shot-2018-06-18-at-7.18.16-PM.png?expiry=1576281600000&hmac=o7fe0j9Z20mOA8g7pTD4uWdKEC3Dr8U3VhMYDO10-cE)
 
